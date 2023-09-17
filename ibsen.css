@@ -1,0 +1,58 @@
+.Speech {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13px;
+    color: black;
+}
+.direction {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+direction:hover{
+    background-color:lightgreen;
+    color: black;
+}
+
+.MANDERS{
+    
+    color:blue;
+}
+
+.MANDERS:hover {
+    box-shadow: 20px 20px 50px rgba(4, 5, 3, 0.5);
+    border: 2px solid blue;
+    text-shadow: 2px 3px 5px brown ;
+
+}
+
+.ALVING{
+    color:coral;
+}
+
+.ALVING:hover{
+    box-shadow: 20px 25px 50px rgba(3, 4, 2, 0.5);
+    border:2px solid green;
+    text-shadow: 2px 3px 5px violet;
+}
+
+.table{
+    border: 3px;
+    color: red;
+    text-align: center;
+    border: 4px solid black;
+    margin-left: 25%;
+    width: 800px;
+}
+
+.link{
+    margin-left: 50%;
+}
+
+.table th {
+    background-color:lightgreen;
+    color: black;
+}
+.direction:hover{
+    background-color: lightskyblue;
+    color:brown;
+}
+
